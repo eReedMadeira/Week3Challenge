@@ -44,7 +44,13 @@ public class Week3Challenge {
 
         if (musicGenre.equals("Indie Pop")) {
             System.out.println("Same!");
-        } else {
+        }
+        else if (musicGenre.equals("indie pop")) {
+            System.out.println ("Same!");
+        }
+        else if (musicGenre.equals ("Indie pop")) {
+        }
+        else {
             System.out.println("Lame.");
         }
 
@@ -75,7 +81,7 @@ public class Week3Challenge {
                 break;
             }
             else if (number > guess && measurement != limit - 1) {
-                System.out.println("Too big! Try again.");
+                System.out.println("Too small! Try again.");
             }
             else if (number < guess && measurement != limit - 1) {
                 System.out.println("Too big! Try again.");
@@ -85,7 +91,7 @@ public class Week3Challenge {
         if (measurement == limit) {
             System.out.println("You have failed to guess the number.");
             System.out.println ("How does it feel, being a failure? I wouldn't know.");
-            System.out.println ("And by the way, your mother was a hamster and your father smelt of elderberries.");
+            System.out.println ("By the way, your mother was a hamster and your father smelt of elderberries.");
             System.out.println ("Have a horrifically mediocre day.");
             System.out.println ("And no, you don't get to know what the number was.");
             }
