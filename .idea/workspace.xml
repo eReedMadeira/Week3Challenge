@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a8b28df-02fd-44bd-adbf-e88176f2be56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week3Challenge/madeira/cs/Week3Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week3Challenge/madeira/cs/Week3Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week3Challenge/madeira/cs/Week3Challenge.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/madeira/cs/Week3Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/madeira/cs/Week3Challenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,22 +78,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600180991213">
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1600380463070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600180991213" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600180991213">
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600380463070" />
+    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1600380463070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600180991213" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600180991213">
+    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600380463070" />
+    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1600380463070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600180991213" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600180991213">
+    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600380463070" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1600380463070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600180991213" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600380463070" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1600125204359">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -114,5 +114,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599838528355" />
+    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600355871170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600355871170" />
   </component>
 </project>
