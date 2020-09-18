@@ -3,6 +3,17 @@ package madeira.cs;
 import java.util.Scanner;
 
 public class Week3Challenge {
+    /*
+
+        Grades and comments
+        -------------------
+        + 100000000000 points for Monty Python reference
+        This is genuinely excellent code.
+        Well commented, well organized, awesome.
+
+        5/5 +1 extra credit
+
+    */
 
     public static void main(String[] args) {
 /*
